@@ -2,8 +2,7 @@
 Grunt template
 ==============
 
-This is a personal fairly complete grunt template for my personal projects. It
-features:
+This is a personal fairly complete grunt template for personal use. It features:
 
 * CSS with Stylus and the Axis lib.
 * JS with browserify for *CommonJS* style modules on the browser.
