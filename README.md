@@ -19,6 +19,11 @@ This is a personal fairly complete grunt template for personal use. It features:
 Usage
 -----
 
+### Dependencies
+
+You must have installed [npm](http://npmjs.org) and
+[grunt](http://gruntjs.org).
+
 ### Download
 
 Clone the template and remove the repo info:
@@ -28,6 +33,7 @@ Clone the template and remove the repo info:
     cd my_super_secret_project
     rm -rf .git
     git init
+    npm install
 
 And to develop!
 
